@@ -14,7 +14,7 @@ I make these with Claude Code, an AI coding tool. I set the direction, and the A
 
 An unofficial fan recreation of the house from the game. It contains no assets from the game and is not affiliated with Sony Interactive Entertainment or Quantic Dream. It runs in a web browser, has no commercial purpose and is still a work in progress.
 
-<a href="https://github.com/MoonMere/detroit-become-human-kara-todd-house"><img src="images/detroit-living-room.jpg" width="480" alt="The living room, lit by a table lamp"></a>
+<a href="https://github.com/MoonMere/detroit-become-human-kara-todd-house"><img src="images/detroit-walkthrough.gif" width="480" alt="Walking through the kitchen, entry hall, dining area and living room in the browser, with the grey placeholder figure"></a>
 
 ### [外婆爱游戏 (Granny Loves Games)](https://github.com/MoonMere/lianliankan-wechat-game)
 
