@@ -1,6 +1,10 @@
+<p align="right"><a href="https://github.com/MoonMere/MoonMere/blob/main/README.zh-CN.md"><kbd>中文</kbd></a></p>
+
 # Siyuan (Soren) Hou
 
 I'm a Master of Information Technology student at the University of Melbourne. I'm looking for an internship in AI or software development.
+
+Email: [soren.siyuan.hou@gmail.com](mailto:soren.siyuan.hou@gmail.com)
 
 ## Personal projects made with AI
 
