@@ -25,6 +25,12 @@
 
 <a href="https://github.com/MoonMere/lianliankan-wechat-game"><img src="images/lianliankan-board.png" width="150" alt="由动物图案方块组成的棋盘，其中一个方块被选中"></a>
 
+### [用 AI 做的科普视频](https://space.bilibili.com/384937924)
+
+我做面向普通观众的中文科普视频，在 B 站上差不多两三天发一条新的。每条视频的动画由 AI 写代码做出来，旁白用的是 AI 克隆的我自己的声音。我负责定题目和标题、给 AI 定做片的规矩、审稿子、挑配音，成片自己看过才发。
+
+<a href="https://space.bilibili.com/384937924"><img src="images/video-brake-pedal-cover.jpg" width="480" alt="一条视频的封面：一只脚踩断刹车踏板，旁边写着“一只脚，就算极端？”"></a>
+
 ## 照片
 
 业余时间，我喜欢用手机拍照。
@@ -66,6 +72,12 @@ I set the overall direction and review the results against the original game.
 A lianliankan (连连看) tile matching game, released on WeChat as a Mini Game. Lianliankan games on Chinese platforms are packed with ads, so I made one with none.
 
 <a href="https://github.com/MoonMere/lianliankan-wechat-game"><img src="images/lianliankan-board.png" width="150" alt="A board of animal tiles with one tile selected"></a>
+
+### [AI-made explainer videos](https://space.bilibili.com/384937924)
+
+I make Chinese-language explainer videos for a general audience and post a new one on Bilibili every two or three days. The AI writes the code that animates each video, and the narration is an AI clone of my own voice. I choose the topic and title, set the rules the AI follows, review the script, pick the narration take, and watch the finished video before it goes out.
+
+<a href="https://space.bilibili.com/384937924"><img src="images/video-brake-pedal-cover.jpg" width="480" alt="Cover of one video: a foot breaking a brake pedal, with the Chinese caption 'Just one foot, and that counts as extreme?'"></a>
 
 ## Photos
 
