@@ -40,7 +40,7 @@
 <p>
   <img src="images/photo-sandstone-courtyard.jpg" width="24%" alt="有拱形走廊和绿色草坪的砂岩庭院">
   <img src="images/photo-gallery-visitors.jpg" width="24%" alt="两个人在美术馆里看带画框的画作">
-  <img src="images/photo-stained-glass-hall.jpg" width="24%" alt="学院餐厅里的彩绘玻璃窗和木梁">
+  <img src="images/photo-trophy-cabinet.jpg" width="24%" alt="木制奖杯陈列柜和一排红色椅子">
   <img src="images/photo-glass-stairwell.jpg" width="24%" alt="透过带木框的玻璃墙看到的楼梯，玻璃上映着树">
 </p>
 
@@ -90,7 +90,7 @@ In my spare time, I like taking photos on my phone.
 <p>
   <img src="images/photo-sandstone-courtyard.jpg" width="24%" alt="Sandstone courtyard with an arched walkway and a green lawn">
   <img src="images/photo-gallery-visitors.jpg" width="24%" alt="Two people looking at framed paintings in an art gallery">
-  <img src="images/photo-stained-glass-hall.jpg" width="24%" alt="Stained glass windows and timber beams in a college dining hall">
+  <img src="images/photo-trophy-cabinet.jpg" width="24%" alt="A wooden trophy cabinet above a row of red chairs">
   <img src="images/photo-glass-stairwell.jpg" width="24%" alt="Staircase seen through a glass wall with a timber frame and reflected trees">
 </p>
 
