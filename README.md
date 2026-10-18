@@ -29,7 +29,7 @@
 
 [YouTube](https://www.youtube.com/@MoonMere_H) · [B 站](https://space.bilibili.com/384937924)
 
-我做面向普通观众的中文科普视频，在 B 站上差不多两三天发一条新的。每条视频的动画由 AI 写代码做出来，旁白用的是 AI 克隆的我自己的声音。我负责定题目和标题、给 AI 定做片的规矩、审稿子、挑配音，成片自己看过才发。
+我做面向普通观众的中英文科普视频，发布在 YouTube 和 B 站。B 站上差不多两三天更新一条。每条视频的动画由 AI 写代码做出来，旁白用的是 AI 克隆的我自己的声音。我负责定题目和标题、给 AI 定做片的规矩、审稿子、挑配音，成片自己看过才发。
 
 <a href="https://www.youtube.com/@MoonMere_H"><img src="images/video-roadster-cover.jpg" width="480" alt="YouTube 视频封面：Tesla Roadster 悬空，尾迹组成问号，旁边写着 This Tesla can fly — But how"></a>
 
@@ -79,7 +79,7 @@ A lianliankan (连连看) tile matching game, released on WeChat as a Mini Game.
 
 [YouTube](https://www.youtube.com/@MoonMere_H) · [Bilibili](https://space.bilibili.com/384937924)
 
-I make Chinese-language explainer videos for a general audience and post a new one on Bilibili every two or three days. The AI writes the code that animates each video, and the narration is an AI clone of my own voice. I choose the topic and title, set the rules the AI follows, review the script, pick the narration take, and watch the finished video before it goes out.
+I make explainer videos in Chinese and English for a general audience and publish them on YouTube and Bilibili. I post a new video on Bilibili every two or three days. The AI writes the code that animates each video, and the narration is an AI clone of my own voice. I choose the topic and title, set the rules the AI follows, review the script, pick the narration take, and watch the finished video before it goes out.
 
 <a href="https://www.youtube.com/@MoonMere_H"><img src="images/video-roadster-cover.jpg" width="480" alt="YouTube video cover: a Tesla Roadster in the air with a question-mark trail and the words 'This Tesla can fly — But how'"></a>
 
